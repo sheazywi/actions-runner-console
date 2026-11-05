@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="550" viewBox="0 0 1080 550">
+<rect width="1080" height="550" rx="18" fill="#101820"/>
+<rect x="1" y="1" width="1078" height="548" rx="17" fill="none" stroke="#334552"/>
+<g font-family="ui-monospace,Consolas,monospace" font-size="17">
+<text x="30" y="43" fill="#4cdae3" font-weight="bold">ACTIONS RUNNER CONSOLE</text>
+<text x="870" y="43" fill="#8aa2b4">12:34:56 UTC</text>
+<path d="M30 64H1050" stroke="#334552"/>
+<text x="30" y="102" fill="#d7e5ed">ci-runner  |  Linux / Windows  |  4 vCPU</text>
+<text x="30" y="142" fill="#76d7a0">CPU   [########------------]   40.0%</text>
+<text x="30" y="178" fill="#f0cb76">RAM   [######--------------]   2.4 GB / 8.0 GB</text>
+<text x="30" y="214" fill="#d7e5ed">DISK  34.2 GB used / 128.0 GB</text>
+<text x="30" y="258" fill="#f0cb76" font-weight="bold">BUILDING</text>
+<text x="175" y="258" fill="#d7e5ed">Build and test / compile</text>
+<text x="30" y="294" fill="#8aa2b4">Branch: main   Commit: abc12345   Duration: 00:47</text>
+<text x="30" y="338" fill="#4cdae3">LIVE JOB OUTPUT</text>
+<text x="30" y="375" fill="#d7e5ed">[ 76%] Compiling changed sources...</text>
+<text x="30" y="409" fill="#d7e5ed">[ 94%] Linking application</text>
+<text x="30" y="443" fill="#76d7a0">Compiler cache: reused unchanged inputs</text>
+<path d="M30 478H1050" stroke="#334552"/>
+<text x="30" y="517" fill="#4cdae3">O overview   S steps   L logs   Arrows scroll   F follow   Q quit</text>
+</g>
+</svg>

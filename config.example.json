@@ -1,0 +1,5 @@
+{
+  "runner_dir": "/opt/actions-runner",
+  "data_dir": "/var/lib/actions-runner-console",
+  "title": "Actions Runner Console"
+}

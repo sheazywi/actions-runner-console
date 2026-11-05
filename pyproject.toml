@@ -1,0 +1,19 @@
+[build-system]
+requires = ["setuptools>=68"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "actions-runner-console"
+version = "0.1.0"
+description = "A local Linux and Windows console for GitHub Actions self-hosted runners."
+readme = "README.md"
+requires-python = ">=3.10"
+license = {text = "MIT"}
+authors = [{name = "sheazywi"}]
+dependencies = []
+
+[project.scripts]
+runner-console = "runner_console.__main__:main"
+
+[tool.setuptools.packages.find]
+include = ["runner_console*"]
